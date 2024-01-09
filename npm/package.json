@@ -1,0 +1,16 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "it is for npm lerning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ankit subhamjyoti",
+  "license": "ISC",
+  "dependencies": {
+    "email": "^0.2.6",
+    "nodemon": "^3.0.2",
+    "protected": "^1.0.0"
+  }
+}
