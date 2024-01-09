@@ -9,4 +9,4 @@ server.on('request',(req,res)=>{
         if(err) return console.error(err);
         res.end(data.toString());
     });
-})''
+});
