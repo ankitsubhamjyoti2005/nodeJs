@@ -34,3 +34,4 @@ server.on('request',(req,res)=>{
     const rstream = fs.createReadStream(input.txt);
     rstream.pipe(res);
 });
+
