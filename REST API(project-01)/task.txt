@@ -1,0 +1,12 @@
+degine a rest api
+
+GET /user --> list all users
+GET /user/1 --> get ther user with id 1
+GET /user/2 --> get the user with id 2
+
+
+POST /users -->add a user
+
+PATCH /user/id --> update user values of id
+
+DELETE /user/1 --> Delete the user with is 1
