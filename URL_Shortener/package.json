@@ -1,0 +1,11 @@
+{
+  "name": "url_shortener",
+  "version": "1.0.0",
+  "description": "this is a url shortner in node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ankitusbhamjyoti",
+  "license": "MIT"
+}
